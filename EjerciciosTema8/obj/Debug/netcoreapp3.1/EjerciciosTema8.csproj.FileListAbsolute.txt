@@ -1,0 +1,14 @@
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema8\EjerciciosTema8\EjerciciosTema8\bin\Debug\netcoreapp3.1\EjerciciosTema8.exe
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema8\EjerciciosTema8\EjerciciosTema8\bin\Debug\netcoreapp3.1\EjerciciosTema8.deps.json
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema8\EjerciciosTema8\EjerciciosTema8\bin\Debug\netcoreapp3.1\EjerciciosTema8.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema8\EjerciciosTema8\EjerciciosTema8\bin\Debug\netcoreapp3.1\EjerciciosTema8.runtimeconfig.dev.json
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema8\EjerciciosTema8\EjerciciosTema8\bin\Debug\netcoreapp3.1\EjerciciosTema8.dll
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema8\EjerciciosTema8\EjerciciosTema8\bin\Debug\netcoreapp3.1\EjerciciosTema8.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema8\EjerciciosTema8\EjerciciosTema8\obj\Debug\netcoreapp3.1\EjerciciosTema8.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema8\EjerciciosTema8\EjerciciosTema8\obj\Debug\netcoreapp3.1\EjerciciosTema8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema8\EjerciciosTema8\EjerciciosTema8\obj\Debug\netcoreapp3.1\EjerciciosTema8.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema8\EjerciciosTema8\EjerciciosTema8\obj\Debug\netcoreapp3.1\EjerciciosTema8.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema8\EjerciciosTema8\EjerciciosTema8\obj\Debug\netcoreapp3.1\EjerciciosTema8.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema8\EjerciciosTema8\EjerciciosTema8\obj\Debug\netcoreapp3.1\EjerciciosTema8.dll
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema8\EjerciciosTema8\EjerciciosTema8\obj\Debug\netcoreapp3.1\EjerciciosTema8.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\Cursos\OpenBootcamp\IntroProgramacion\Ej_Tema8\EjerciciosTema8\EjerciciosTema8\obj\Debug\netcoreapp3.1\EjerciciosTema8.genruntimeconfig.cache
